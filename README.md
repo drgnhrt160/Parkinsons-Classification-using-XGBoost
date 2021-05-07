@@ -1,1 +1,3 @@
 # Parkinsons-Classification-using-XGBoost
+Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it and affects more than 1 million individuals every year in India. 
+Thus, this model uses XGBClassifier to classify whether a patient has Parkinson's disease or not. The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. It can be found in the repository or can be downloaded from kaggle or UCL Machine Learning Repository.
